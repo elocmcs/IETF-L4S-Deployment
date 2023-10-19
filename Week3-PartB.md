@@ -1,7 +1,7 @@
 # Week 3 - Field Trial Instructions
 
 This testing is OPTIONAL and requires a device running Windows.  This test is for advanced users.
-
+d
 ## Action Requested
 
 ### Step 1 - Download DNS Benchmark 
